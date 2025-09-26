@@ -31,15 +31,8 @@
 
 ## ⚡ Actividad Reciente
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, September 25th, 2025, 6:01:00 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-
 
 ## 💬 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
